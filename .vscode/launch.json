@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Run JavaScript File",
+            "program": "${workspaceFolder}/js/task-3.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        
+        }
+    ]
+}
